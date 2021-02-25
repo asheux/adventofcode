@@ -1,0 +1,4 @@
+# vim stuf
+*.sw?
+
+__pycache__/
